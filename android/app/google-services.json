@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "417795140060",
-    "project_id": "numbersms-55808",
-    "storage_bucket": "numbersms-55808.appspot.com"
+    "project_number": "1034358832526",
+    "project_id": "phonesms-def46",
+    "storage_bucket": "phonesms-def46.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:417795140060:android:d1bde0976bbb79ab178719",
+        "mobilesdk_app_id": "1:1034358832526:android:da31b86f41062bca4678df",
         "android_client_info": {
-          "package_name": "com.android.application"
+          "package_name": "com.example.git"
         }
       },
       "oauth_client": [
         {
-          "client_id": "417795140060-2sasfdeto2drrc1bg6o1ir424qgsn7ad.apps.googleusercontent.com",
+          "client_id": "1034358832526-pbpguvk0sj32n0c9ibtlkdnlt6doja1h.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAkB7_EwLtqWv5ghA7thIQJ2kdwe1kCyVE"
+          "current_key": "AIzaSyAwc8Y0e4VDcMV11A3fIKDazf16pIvDWiA"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "417795140060-2sasfdeto2drrc1bg6o1ir424qgsn7ad.apps.googleusercontent.com",
+              "client_id": "1034358832526-pbpguvk0sj32n0c9ibtlkdnlt6doja1h.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
